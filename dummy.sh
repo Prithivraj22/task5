@@ -1,4 +1,4 @@
-echo "Hi!"
-echo"This is from Main branch!"
+echo "Hello"
+echo"This is from New feature branch!"
 
-echo "this is from new-bug branch"
+echo "this is from new-feature branch"
